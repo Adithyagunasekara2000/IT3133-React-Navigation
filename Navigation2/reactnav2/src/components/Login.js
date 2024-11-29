@@ -34,6 +34,7 @@ export default function DashBoard(){
                     <td><input type="text"name="username" onChange={getTextInput}/> </td>
                 </tr>
                 <tr>
+                    <td>Password</td>
                     <td><input type="password" name="pwd" onChange={getTextInput}/></td>
                 </tr>
                 <tr>
