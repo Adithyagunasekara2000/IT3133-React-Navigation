@@ -1,4 +1,4 @@
-# IT3133-React-Navigation-Day6
+# IT3133-React-Navigation-Day8
 <h3>Why We Use navigate in React</h3>
 We use navigate from react-router-dom to programmatically change the URL and navigate to different routes based on user actions or certain conditions. This allows for more dynamic and interactive navigation in our applications.
 <h3>Key components</h3>
